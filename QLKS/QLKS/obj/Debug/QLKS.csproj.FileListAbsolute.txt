@@ -1,0 +1,11 @@
+D:\Workspace\QLKS\QLKS\QLKS\bin\Debug\QLKS.exe.config
+D:\Workspace\QLKS\QLKS\QLKS\bin\Debug\QLKS.exe
+D:\Workspace\QLKS\QLKS\QLKS\bin\Debug\QLKS.pdb
+D:\Workspace\QLKS\QLKS\QLKS\obj\Debug\QLKS.csprojResolveAssemblyReference.cache
+D:\Workspace\QLKS\QLKS\QLKS\obj\Debug\QLKS.Form1.resources
+D:\Workspace\QLKS\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+D:\Workspace\QLKS\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.Cache
+D:\Workspace\QLKS\QLKS\QLKS\obj\Debug\QLKS.exe
+D:\Workspace\QLKS\QLKS\QLKS\obj\Debug\QLKS.pdb
+D:\Workspace\QLKS\QLKS\QLKS\obj\Debug\QLKS.ThongKe.resources
+D:\Workspace\QLKS\QLKS\QLKS\obj\Debug\QLKS.Index.resources
